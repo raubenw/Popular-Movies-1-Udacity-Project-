@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- URL values for the MDB.org API -->
+    <string name="movie_base_url">http://api.themoviedb.org/3/discover/movie?</string>
+    <string name="param_sort_by">sort_by</string>
+    <string name="param_api_key">api_key</string>
+    <string name="value_api_key">insert own key</string>
+
+    <!-- Shared Preference Values-->
+    <string name="pref_sort_by_label">Sort movies by</string>
+    <string name="pref_sort_by_key">sort_by</string>
+    <string name="pref_sort_by_default_value">popularity.desc</string>
+    <string name="value_default_sort_by">popularity.desc</string>
+
+    <!-- Images sizes-->
+    <string name="image_size_original">original</string>
+    <string name="image_size_92">w92</string>
+    <string name="image_size_154">w154</string>
+    <string name="image_size_185">w185</string>
+    <string name="image_size_342">w342</string>
+    <string name="image_size_500">w500</string>
+    <string name="image_size_780">w780</string>
+
+    <!-- Image base URL -->
+    <string name="image_base_url">http://image.tmdb.org/t/p/</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
